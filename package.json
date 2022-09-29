@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "test": "vitest",
-    "run": "ts-node src/index.js",
+    "exec": "ts-node src/index.ts",
     "lint": "prettier --write src/**/*.ts"
   },
   "repository": {
